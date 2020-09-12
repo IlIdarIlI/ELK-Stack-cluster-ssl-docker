@@ -254,7 +254,7 @@ path.logs: /DATA1/logstash/logs
 # https://www.elastic.co/guide/en/logstash/current/monitoring-logstash.html
 xpack.monitoring.enabled: true
 xpack.monitoring.elasticsearch.username: elastic
-xpack.monitoring.elasticsearch.password: CarnegieBg!
+xpack.monitoring.elasticsearch.password: your_password
 xpack.monitoring.elasticsearch.hosts: ["https://elastic-stack.carnegietechnologies.rs:9200"]
 xpack.monitoring.elasticsearch.ssl.certificate_authority: "/etc/ssl/certs/ca-certificates.crt"
 xpack.monitoring.elasticsearch.ssl.verification_mode: certificate
